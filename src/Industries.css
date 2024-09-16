@@ -1,0 +1,19 @@
+.modal-column h6 {
+    margin: 25px;
+  }
+  
+  .modal-low img {
+    width: 400px;
+    height: 100px;
+    border-radius: 10px;
+    margin-top: 40px;
+  }
+
+  .modal-low p {
+    font-size: 20px;
+  }
+
+  .modal-low a {
+    font-weight: 300;
+    text-decoration: underline;
+  }

@@ -1,0 +1,25 @@
+.portfolio-link a {
+    font-weight: bold;
+  }
+  
+  .modal-top h1 {
+    color: black;
+  }
+  
+  .modal-column h4 {
+    margin-top: 20px;
+  }
+  
+  .modal-dropdown {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+
+  .images {
+    width: 90px;
+  }
+
+  .row-2 {
+    margin: 0px 50px;
+  }
+  
+  

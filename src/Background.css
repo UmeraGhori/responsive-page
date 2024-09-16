@@ -1,0 +1,28 @@
+body, html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    background-color: #2c2c2c;
+  }
+  
+  .App {
+    min-height: 100vh;
+    background-color: #2c2c2c; 
+  }
+  
+  .content-section {
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 80px;
+  }
+  
+  h1 {
+    font-size: 3rem;
+  }
+  
+  p {
+    font-size: 1.5rem;
+    margin-top: 20px;
+  }
+  
